@@ -1,0 +1,22 @@
+[
+    {
+      "nombre": "Zapatilla Basquet",
+      "descripcion": "Zapa de Lebron",
+      "foto": "URL de zapatilla",
+      "precio": 5500,
+      "stock": 20,
+      "id": "1",
+      "codigo": "1",
+      "timestamp": "30/04/2022 20:34:13"
+    },
+    {
+      "nombre": "Zapa de Futbol",
+      "descripcion": "Zapa de Messi",
+      "foto": "URL de zapa",
+      "precio": 7988,
+      "stock": 10,
+      "id": "2",
+      "codigo": "2",
+      "timestamp": "30/04/2022 20:50:32"
+    }
+  ]

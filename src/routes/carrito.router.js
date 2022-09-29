@@ -109,7 +109,6 @@ carritoRouter.delete('/:id/productos/:id_product', async (req, res) => {
     }
 });
 
-
 module.exports = {
     miCarrito,
     carritoRouter
